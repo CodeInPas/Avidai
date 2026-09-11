@@ -1,4 +1,8 @@
+
+
 # Video AI Object Detector - Offline Audit Tool
+
+<img width="964" height="605" alt="Avidai" src="https://github.com/user-attachments/assets/475e89f5-0d08-456d-b306-c62e192c9d31" />
 
 A high-performance, multithreaded offline video auditing tool designed for automated object detection and visual verification. Built using **Lazarus (Free Pascal)** for a responsive GUI and **YOLOv8 (Python)** for computer vision analysis, the application enables frame-accurate log tracking, evidence snapshot generation, and seamless video navigation.
 
