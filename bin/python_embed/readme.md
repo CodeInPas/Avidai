@@ -1,5 +1,5 @@
 
-```markdown
+
 ## Python Environment & Libraries Setup
 
 To run the AI object detection engine locally without requiring a full system-wide Python installation, follow these steps to set up an embedded Python environment:
@@ -16,7 +16,7 @@ By default, the embedded version of Python disables external libraries (`site-pa
    ```text
    import site
 
-```
+
 
 3. Save and close the file.
 
