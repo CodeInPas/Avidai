@@ -1,4 +1,3 @@
-Berikut adalah bagian tambahan untuk file `README.md` dalam bahasa Inggris yang merinci tahapan penyiapan *Embedded Python* beserta pustaka (*library*) pendukungnya:
 
 ```markdown
 ## Python Environment & Libraries Setup
