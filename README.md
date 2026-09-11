@@ -45,7 +45,7 @@ Ensure the output executable directory includes the following dependencies:
 │   ├── libvlccore.dll
 │   └── plugins/
 └── temp_snapshots/         # Auto-managed folder for snapshots and logs
-
+```
 ## ☕ Support the Project
 
 If you find **LLAMA Control Center** helpful and want to support its ongoing development, consider buying me a coffee or sending a tip. Any support is deeply appreciated!
