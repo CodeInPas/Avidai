@@ -1,0 +1,342 @@
+00:00.00 - car, car
+00:00.37 - car, car
+00:00.73 - car
+00:01.10 - car
+00:01.47 - car, car
+00:01.84 - car, car, car
+00:02.20 - car
+00:02.57 - car, person, car
+00:02.94 - car, car
+00:03.30 - car, car, person
+00:03.67 - car, car, car
+00:04.04 - car, car
+00:04.40 - car, car, car, car, car
+00:04.77 - car, car
+00:05.14 - car, car, car, car
+00:05.51 - car, car, car, car, car
+00:05.87 - car, car, car
+00:06.24 - car, car, person, car
+00:06.61 - car, person
+00:06.97 - car, person, person, person, person
+00:07.34 - car, person, car, car, car
+00:07.71 - car, car
+00:08.07 - car, person, car, person, car
+00:08.44 - person, car, person
+00:08.81 - car, person, car, person
+00:09.18 - car, person
+00:09.54 - person, person, person
+00:09.91 - car, person
+00:10.28 - person, car, car, person
+00:10.64 - car, car, car, motorcycle, car, traffic light
+00:11.01 - car, person, car, car, car, car
+00:11.38 - car, car, person, motorcycle, truck, car
+00:11.75 - car, car, person, person, car, car, car, car
+00:12.11 - car, car, person, person, car, car
+00:12.48 - car, car, person, car, car, car, motorcycle, person
+00:12.85 - car, car, car, person, person, truck, motorcycle
+00:13.21 - car, car, person, person
+00:13.58 - car, car, motorcycle, car, person, car, person
+00:13.95 - car, car, car, car, person, motorcycle, person, person
+00:14.31 - car, person, person, car, car, truck, car, motorcycle, person
+00:14.68 - car, truck, person, motorcycle, person, car, motorcycle
+00:15.05 - car, car, car, truck, motorcycle, motorcycle, person, car
+00:15.42 - car, person, car, person, truck, motorcycle, car
+00:15.78 - car, person, motorcycle, car
+00:16.15 - car, person, car
+00:16.52 - person, car, car, motorcycle, car, truck, car, person, person
+00:16.88 - person, car, motorcycle, car, car
+00:17.25 - person, car
+00:17.62 - car, person, car
+00:17.98 - car
+00:18.35 - car, person
+00:18.72 - person, car, car
+00:19.45 - car, car, car
+00:19.82 - car, car, car
+00:20.19 - car
+00:20.55 - car, car, traffic light, car
+00:20.92 - car, car
+00:21.29 - person, car
+00:21.65 - bus, car
+00:22.02 - car
+00:22.39 - car, bus
+00:22.76 - bus, car, car, car, car
+00:23.12 - car, car, car
+00:23.49 - car, car, person
+00:23.86 - car, bus, car
+00:24.22 - car, car
+00:24.59 - car, car, car, truck, car
+00:24.96 - car, car, car
+00:25.33 - bus, car, car, car, car, motorcycle, car
+00:25.69 - bus, car, car, car, car
+00:26.06 - car, car, car, bus, car, person
+00:26.43 - car, bus, car, car
+00:26.79 - car, car, car, person
+00:27.16 - car, car, car, person, car
+00:27.53 - car, car, car, car
+00:27.89 - car, car, bus, car, car
+00:28.26 - bus, car, car, car, car, car, car
+00:28.63 - car, car, car, car, car
+00:29.00 - car, car, car, car
+00:29.36 - car, car, car
+00:29.73 - car, car, car, car, car
+00:30.10 - car, car, car, car, car, person, truck
+00:30.46 - car, car, car, car, motorcycle
+00:30.83 - car, car, car, car, car, car
+00:31.20 - car, car, car, car
+00:31.56 - car, car, car, motorcycle, car, car, car, car
+00:31.93 - car, car, car, motorcycle, car
+00:32.30 - car, car, car, car, motorcycle, truck
+00:32.67 - car, car, car, motorcycle
+00:33.03 - person, person, car
+00:33.40 - person, person, car
+00:33.77 - person, person
+00:34.13 - person, person
+00:34.50 - person, person, car
+00:34.87 - person, person, car, car
+00:35.24 - person, person, car, car
+00:35.60 - person, person, car, couch
+00:35.97 - person, person, car, couch
+00:36.34 - person, person, couch, car
+00:36.70 - person, person, car, couch
+00:37.07 - person, person, couch
+00:37.44 - person, person, motorcycle, motorcycle, person, motorcycle
+00:37.80 - person, person, motorcycle, person, person, person, motorcycle
+00:38.17 - person, person, person, person, person, person
+00:38.54 - person, person, person, person
+00:38.91 - person, person, person, person
+00:39.27 - person, person, person
+00:39.64 - person, person
+00:40.01 - person, person, motorcycle
+00:40.37 - person, person, motorcycle, motorcycle, motorcycle, person
+00:40.74 - person, person, person, motorcycle, person, motorcycle
+00:41.11 - person, person, person, person, person, motorcycle, motorcycle
+00:41.47 - person, person, motorcycle, person, motorcycle, motorcycle
+00:41.84 - person, person, motorcycle, person, person
+00:42.21 - person, person, motorcycle, motorcycle, person
+00:42.58 - person, person, person, person, motorcycle
+00:42.94 - person, person, person, motorcycle
+00:43.31 - person, person
+00:43.68 - person, person, motorcycle, motorcycle
+00:44.04 - person, person
+00:44.41 - person, person, motorcycle
+00:44.78 - motorcycle, motorcycle
+00:45.15 - motorcycle
+00:45.51 - motorcycle
+00:45.88 - motorcycle
+00:46.25 - person, person
+00:46.61 - person, motorcycle, person
+00:46.98 - person, motorcycle
+00:47.35 - motorcycle, person, person
+00:47.71 - motorcycle, person, person
+00:48.08 - motorcycle, person, motorcycle
+00:48.45 - motorcycle
+00:48.82 - motorcycle, motorcycle, person
+00:49.18 - motorcycle, person
+00:49.55 - person, person
+00:49.92 - person, person
+00:50.28 - person, person, motorcycle
+00:50.65 - person, backpack, person
+00:51.02 - person, person
+00:51.38 - person, person
+00:51.75 - person, person
+00:52.12 - person, person, person
+00:52.49 - person, person
+00:52.85 - person, person
+00:53.22 - person, person, person, person
+00:53.59 - person, person, person, person
+00:53.95 - person, person, person, person, person, person, person
+00:54.32 - person, person, person, person, person, person, person
+00:54.69 - person, person, person, person, person, person
+00:55.05 - person, person, person, person, person, person, person
+00:55.42 - person, person, person, person, person, person
+00:55.79 - person, person, person, person, person, suitcase, person
+00:56.16 - person, person, person
+00:56.52 - person, person, person, cell phone
+00:56.89 - person, person, person
+00:57.26 - person
+00:57.62 - car, car, car, car
+00:57.99 - car, car, car, car, car, car
+00:58.36 - car, car, car, car, car
+00:58.73 - car, car, car, car
+00:59.09 - car, car, car
+00:59.46 - car, car, car
+00:59.83 - car, car, car
+01:00.19 - car, car, car
+01:00.56 - car, car, car, car
+01:00.93 - car, car, car, car, car
+01:01.29 - car, car, car, car, car
+01:17.08 - car, car
+01:17.44 - car, car, bus
+01:17.81 - car, car
+01:18.18 - car
+01:18.55 - car, car
+01:18.91 - car, car
+01:19.65 - car, person, car
+01:20.01 - car, car, car
+01:20.38 - car, car, car, car
+01:20.75 - car, car, car, car
+01:21.11 - car, car, car, car
+01:21.48 - car, car, car, car, car
+01:21.85 - car, car, car, car, car
+01:22.22 - car, car, car, car
+01:22.58 - car, car, car, car, car
+01:22.95 - car, car, car, traffic light
+01:23.32 - car, car, person, person, car, car, person, person
+01:23.68 - car, person, person, person, car, person, person
+01:24.05 - car, person, person, person, person, person, person
+01:24.42 - person, car, car, person, person
+01:24.78 - person, person
+01:25.15 - car, car, person, car, person
+01:25.52 - car, person, car, person
+01:25.89 - car, person, person, car
+01:26.25 - car, person, person
+01:26.62 - car, person, person
+01:26.99 - person
+01:27.35 - person, car, person, person
+01:27.72 - car, car, car, car, traffic light, motorcycle
+01:28.09 - car, car, car, car
+01:28.46 - car, car, person, car, person
+01:28.82 - car, person, person, car, car, car, car, car
+01:29.19 - car, car, car, car, person, car, person
+01:29.56 - car, car, car, car, person, person, person
+01:29.92 - car, car, person, person, car, motorcycle, car, person
+01:30.29 - car, car, person, car, car, truck, motorcycle
+01:30.66 - car, car, car, truck, person, person, truck
+01:31.02 - car, car, car, motorcycle, person, motorcycle, person, person, truck
+01:31.39 - car, car, car, car, truck, person, person, person, motorcycle, motorcycle, motorcycle
+01:31.76 - car, person, truck, car, motorcycle, car
+01:32.13 - car, person, car, truck, person, car
+01:32.49 - person, car, car, car, motorcycle, truck, person
+01:32.86 - car, person, car, car
+01:33.23 - car, person, car, car, motorcycle, car, car, person, motorcycle
+01:33.59 - person, car, car, car, motorcycle, person, car, truck, bicycle, person
+01:33.96 - car, person, motorcycle, car, car, truck, bicycle
+01:34.33 - car, person, person, car
+01:34.69 - person, car
+01:35.06 - car, person, car, car
+01:35.43 - person, car
+01:35.80 - person, car
+01:36.16 - car, car, person
+01:36.53 - car, car
+01:36.90 - car, car, car
+01:37.26 - car, car, car
+01:37.63 - car, car
+01:38.00 - car, car
+01:38.36 - car, person, bus
+01:38.73 - car
+01:39.10 - car, bus
+01:39.47 - car, bus
+01:39.83 - car, bus, car, car
+01:40.20 - car, car, car, person, car
+01:40.57 - car, car, bus, car
+01:40.93 - car, car
+01:41.30 - car
+01:41.67 - car, car, truck, car
+01:42.04 - car, car
+01:42.40 - bus, car, car, car, car, motorcycle, car
+01:42.77 - bus, car, car, car, car, person, car
+01:43.14 - car, car, bus, car, car, car
+01:43.50 - car, car, bus, car, car
+01:43.87 - car, car, car, car
+01:44.24 - car, car, car, car
+01:44.60 - bus, car, car, car, car, car
+01:44.97 - car, car, car, bus, car
+01:45.34 - car, car, car, car, car, bus
+01:45.71 - car, car, bus, car, car, car
+01:46.07 - car, car
+01:46.44 - car, car, car, car
+01:46.81 - car, car, car
+01:47.17 - car, car, car, car, car
+01:47.54 - car, car, car, car, car, car
+01:47.91 - car, car, car
+01:48.27 - car, car, car, car
+01:48.64 - car, car, motorcycle, car, car, car, person
+01:49.01 - car, car, car, motorcycle, truck
+01:49.38 - car, car, car, car, motorcycle, car
+01:49.74 - car, car, car, car
+01:50.11 - person, person
+01:50.48 - person, person
+01:50.84 - person, person, couch
+01:51.21 - person, person, couch
+01:51.58 - person, person, car
+01:51.95 - person, person, car
+01:52.31 - person, person, car
+01:52.68 - person, person, car
+01:53.05 - person, person, car
+01:53.41 - person, person, couch
+01:53.78 - person, person, couch, car
+01:54.15 - person, person
+01:54.51 - person, person, motorcycle, motorcycle, motorcycle, person
+01:54.88 - person, person, person, person, person
+01:55.25 - person, person, person, person, motorcycle, person
+01:55.62 - person, person, person, motorcycle, person
+01:55.98 - person, person, person
+01:56.35 - person, person, bicycle
+01:56.72 - person, person, motorcycle
+01:57.08 - person, person, motorcycle, motorcycle, person
+01:57.45 - person, person, person, motorcycle, person, motorcycle
+01:57.82 - person, person, person, person
+01:58.18 - person, person, person, person, motorcycle
+01:58.55 - person, person, person, motorcycle, person, motorcycle, motorcycle
+01:58.92 - person, person, person, person, motorcycle, motorcycle
+01:59.29 - person, person, suitcase, motorcycle, person
+01:59.65 - person, person, person, person, motorcycle, person
+02:00.02 - person, person, person
+02:00.39 - person, person, motorcycle
+02:00.75 - person, person, motorcycle, motorcycle, motorcycle
+02:01.12 - person, person, motorcycle, motorcycle
+02:01.49 - person, motorcycle, motorcycle
+02:01.86 - motorcycle
+02:02.22 - motorcycle
+02:02.59 - motorcycle, motorcycle
+02:02.96 - person, motorcycle
+02:03.32 - person, motorcycle, motorcycle, person
+02:03.69 - motorcycle, person, motorcycle, person
+02:04.06 - person, motorcycle
+02:04.42 - person, motorcycle
+02:04.79 - motorcycle, person, person
+02:05.16 - motorcycle, motorcycle, person, person, person
+02:05.53 - motorcycle, motorcycle, person
+02:05.89 - motorcycle
+02:06.26 - person, person
+02:06.63 - person, person
+02:06.99 - person, person
+02:07.36 - person, person
+02:07.73 - person, backpack, person
+02:08.09 - person, person, person
+02:08.46 - person, person, person
+02:08.83 - person, person
+02:09.20 - person, person, person
+02:09.56 - person, person
+02:09.93 - person
+02:10.30 - person, person, person, person
+02:10.66 - person, person, person, person, person
+02:11.03 - person, person, person, person, person, person
+02:11.40 - person, person, person, person, person, person
+02:11.76 - person, person, person, person, person, person, person
+02:12.13 - person, person, person, person, person, person, person
+02:12.50 - person, person, person, person, person, person
+02:12.87 - person, person, person, person, person
+02:13.23 - person, person, person
+02:13.60 - person, person
+02:13.97 - person, person
+02:14.33 - person, person
+02:14.70 - car, car, car, car, car
+02:15.07 - car, car, car, car
+02:15.44 - car, car, car
+02:15.80 - car, car, car
+02:16.17 - car, car, car
+02:16.54 - car, car, car
+02:16.90 - car, car, car
+02:17.27 - car, car, car, car, car
+02:17.64 - car, car, car, car
+02:18.00 - car, car, car, car, car
+02:18.37 - car, car, car, car, car
+02:19.47 - kite, kite
+02:19.84 - kite
+02:20.21 - kite, kite, kite
+02:20.57 - kite, kite, kite
+02:21.31 - kite, kite, kite
+02:22.04 - kite
+02:22.41 - kite
+02:22.78 - kite, kite
