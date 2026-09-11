@@ -14,12 +14,12 @@ By default, the embedded version of Python disables external libraries (`site-pa
 1. Open the `python312._pth` file located inside your `python_embed` folder using a text editor (e.g., Notepad).
 2. Look for the line `#import site` and **uncomment it** by removing the `#` character so it reads:
    ```text
-python312.zip
-.
-Lib\site-packages
-import site
+   python312.zip
+   .
+   Lib\site-packages
+   import site
 
-
+   ```
 
 
 3. Save and close the file.
