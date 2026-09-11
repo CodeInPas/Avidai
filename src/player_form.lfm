@@ -1,0 +1,35 @@
+object PlayerForm: TPlayerForm
+  Left = 298
+  Height = 345
+  Top = 250
+  Width = 458
+  Caption = 'PlayerForm'
+  ClientHeight = 345
+  ClientWidth = 458
+  FormStyle = fsStayOnTop
+  LCLVersion = '4.8.0.0'
+  OnClose = FormClose
+  OnCreate = FormCreate
+  object VlcPlayer1: TPasLibVlcPlayer
+    Left = 0
+    Height = 345
+    Top = 0
+    Width = 458
+    Align = alClient
+    BevelOuter = bvNone
+    Color = clWhite
+    ParentBackground = False
+    ParentColor = False
+    TabOrder = 0
+    TitleShow = True
+    UseOverlay = True
+    SnapShotFmt = 'png'
+    SnapshotPrv = True
+    MouseEventsHandler = mehComponent
+  end
+  object tmplay: TTimer
+    Enabled = False
+    Left = 73
+    Top = 180
+  end
+end
